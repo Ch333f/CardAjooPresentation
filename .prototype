@@ -1,0 +1,29 @@
+#!/usr/bin/env
+# -*- coding: utf-8 -*-
+# CardAjoo Presentation
+
+
+# author: Exfac
+# copyright: &copy; 2023 - new Date().getFullYear() All Rights Reserved | Exfac
+# credits: ["Mr. O"]
+# version: Beta v0.1.0
+# maintainer: OTechCup
+# email: support@exfac.info
+
+
+main:
+  - primary:
+    - https://htmlcodex.com/bootstrap-documentation-template/
+
+
+  - secondary:
+    -
+
+
+account:
+  - primary:
+    -
+  
+  
+  - secondary:
+    -
